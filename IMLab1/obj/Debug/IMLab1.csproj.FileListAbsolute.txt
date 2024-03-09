@@ -1,0 +1,10 @@
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.csproj.AssemblyReference.cache
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.Form1.resources
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.Properties.Resources.resources
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.csproj.GenerateResource.cache
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.csproj.CoreCompileInputs.cache
+C:\Users\iranc\source\repos\IMLab1\IMLab1\bin\Debug\IMLab1.exe.config
+C:\Users\iranc\source\repos\IMLab1\IMLab1\bin\Debug\IMLab1.exe
+C:\Users\iranc\source\repos\IMLab1\IMLab1\bin\Debug\IMLab1.pdb
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.exe
+C:\Users\iranc\source\repos\IMLab1\IMLab1\obj\Debug\IMLab1.pdb
